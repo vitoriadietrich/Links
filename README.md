@@ -2,22 +2,22 @@
 
 Um projeto simples de **animação em links de navegação com tooltip** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar **efeitos de hover em links**, incluindo **tooltips animados**, deixando a navegação mais interativa.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS (hover, transition)
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Animação ao passar o mouse nos links
 - Tooltip estilizado
 - Design moderno e simples
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador
